@@ -1,0 +1,3 @@
+# do not version track WiFi credentials
+src/wifi-credentials.lua
+src/thx_reivax.lua
